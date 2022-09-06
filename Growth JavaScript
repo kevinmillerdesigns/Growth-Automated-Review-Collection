@@ -1,0 +1,13 @@
+<script type="application/javascript">
+            var _rrES = {
+                seller_id: xxxxxx,
+                email: "", /* <- Customer Email */
+                invoice: "" /* <- Invoice Number */
+                 
+            };
+            (function() {
+                var s=document.createElement('script');s.type='application/javascript';s.async=true;
+                s.src="https://www.resellerratings.com/popup/include/load.js";var ss=document.getElementsByTagName('script')[0];
+                ss.parentNode.insertBefore(s,ss);
+            })();
+</script>
